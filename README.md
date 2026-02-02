@@ -35,6 +35,7 @@ The dataset includes customer-level information such as:
 - Visual analysis to support business conclusions
 
 📈 Key Insights
+
 🔹 Phase 1: Overall Platform & Category Analysis
 - Amazon emerges as the most dominant e-commerce platform across all age groups, with exceptionally strong usage among the 26–48 age segment, indicating high trust and frequent usage among working professionals.
 - Flipkart shows strong adoption, particularly within the 26–48 age group, making it the second most preferred platform overall.
